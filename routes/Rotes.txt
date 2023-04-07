@@ -1,0 +1,4 @@
+GET : http://localhost:3000/movies/get-all
+POST : http://localhost:3000/movies/add-movie
+GET single by id : http://localhost:3000/movies/get-single?id=6404a271d970f4561083300e
+GET paginated : http://localhost:3000/movies/get-paginated?page=1&size=10
